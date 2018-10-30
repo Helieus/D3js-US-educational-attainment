@@ -1,4 +1,4 @@
-Helieusvar el_id = 'chart';
+var el_id = 'chart';
 var treeSumSortType = "number";
 
 var obj = document.getElementById(el_id);
