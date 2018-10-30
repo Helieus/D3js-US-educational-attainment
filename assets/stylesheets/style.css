@@ -81,7 +81,7 @@ text{
 
 label{
   font-family: "Courier New", Courier, monospace !IMPORTANT;
-     border-radius: 50px !IMPORTANT;
+     border-radius: 5px !IMPORTANT;
 }
 
 .radio-toolbar input[type="radio"] {
