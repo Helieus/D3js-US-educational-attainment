@@ -80,29 +80,33 @@ text{
 }
 
 label{
-  font-family: "Courier New", Courier, monospace !IMPORTANT;
+  font-family: "Muli", "Gill Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !IMPORTANT;
      border-radius: 5px !IMPORTANT;
 }
 
 .radio-toolbar input[type="radio"] {
   display: none;
     
+}
+
 .radio-toolbar label {
 
   display: block;
-  background-color: #004BBF;
+  background-color: #20906b;
   padding: 7px 12px;  
   border: 2px solid red;
   border-style:dotted;
-  font-family: "Muli";
+  font-family: "Arial";
   font-size: 15px;
   cursor: pointer;
 }
 
 .radio-toolbar input[type="radio"]:checked+label {
-  background-color: #E58A00;
-  background-color: #E58A00;
+  background-color: #bbb;
+  background-color: #7e2090;
 }
+
+
 
 a, a:visited, a:hover {
 	text-decoration: none;
