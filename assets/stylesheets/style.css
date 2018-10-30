@@ -90,13 +90,14 @@ label{
 }
 
 .radio-toolbar label {
-
   display: block;
   background-color: #004BBF;
-  padding: 4px 20px;
-  font-family: "Courier New";
-  font-size: 12px;
+  padding: 7px 12px;  
+  border: 2px solid red;
+  border-style:dotted;
+  font-size: 15px;
   cursor: pointer;
+  font-family: "Courier New";
 }
 
 .radio-toolbar input[type="radio"]:checked+label {
