@@ -87,24 +87,22 @@ label{
 .radio-toolbar input[type="radio"] {
   display: none;
     
-}
-
 .radio-toolbar label {
+
   display: block;
   background-color: #004BBF;
   padding: 7px 12px;  
   border: 2px solid red;
   border-style:dotted;
-  font-size: 14px;
-  cursor: pointer;
   font-family: "Courier New";
+  font-size: 15px;
+  cursor: pointer;
 }
 
 .radio-toolbar input[type="radio"]:checked+label {
   background-color: #E58A00;
+  background-color: #E58A00;
 }
-
-
 
 a, a:visited, a:hover {
 	text-decoration: none;
