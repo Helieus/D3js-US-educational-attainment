@@ -81,7 +81,7 @@ text{
 
 label{
   font-family: "Muli", "Gill Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !IMPORTANT;
-     border-radius: 5px !IMPORTANT;
+     border-radius: 50px !IMPORTANT;
 }
 
 .radio-toolbar input[type="radio"] {
@@ -90,7 +90,7 @@ label{
 }
 
 .radio-toolbar label {
-  display: inline-block;
+  display: block;
   background-color: #2D5798;
   padding: 7px 12px;  
   border: 2px solid red;
