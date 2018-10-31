@@ -8,7 +8,7 @@ function playclip() {
 
   else {
 {
-  var audio = document.getElementById("mySoundClip")[0];
+  var audio = document.getElementsByTagName("audio")[0];
   audio.play();
     }
   }
